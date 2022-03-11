@@ -1,0 +1,17 @@
+body {
+  font-size: 120%;
+  font-weight: bold;
+  background-image: url(60.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.left {
+  padding-left: 10px;
+}
+.right {
+  padding-left: 10px;
+}
+p {
+  font-size: 30px;
+  text-shadow: 2px 2px 4px blue;
+}
